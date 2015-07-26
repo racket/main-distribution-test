@@ -5,6 +5,7 @@
 (define deps '("racket-test"
                "racket-test-extra"
                "rackunit-test"
+               "draw-test"
                "gui-test"
                "db-test"
                "htdp-test"
