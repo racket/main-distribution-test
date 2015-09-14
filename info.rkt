@@ -20,7 +20,6 @@
                "typed-racket-test"
                "xrepl-test"
                "scribble-test"
-               "unstable-test"
                "compiler-test"
                "compatibility-test"
                "data-test"
@@ -31,7 +30,10 @@
                "plot-test"
                "math-test"
                "racket-benchmarks"
-               "drracket-tool-test"))
+               "drracket-tool-test"
+               "2d-test"
+               "option-contract-test"
+               "unix-socket-test"))
 
 (define pkg-desc "tests for \"main-distribution\"")
 
