@@ -28,6 +28,7 @@
                "syntax-color-test"
                "images-test"
                "plot-test"
+               "pict-test"
                "math-test"
                "racket-benchmarks"
                "drracket-tool-test"
