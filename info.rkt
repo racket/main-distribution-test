@@ -24,6 +24,7 @@
                "compatibility-test"
                "data-test"
                "net-test"
+               "pconvert-test"
                "planet-test"
                "syntax-color-test"
                "images-test"
