@@ -30,6 +30,7 @@
                "images-test"
                "plot-test"
                "pict-test"
+               "pict-snip-test"
                "math-test"
                "racket-benchmarks"
                "drracket-tool-test"
