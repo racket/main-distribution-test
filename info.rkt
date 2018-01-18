@@ -37,6 +37,7 @@
                "drracket-tool-test"
                "2d-test"
                "option-contract-test"
+               "sasl-test"
                "unix-socket-test"))
 
 (define pkg-desc "tests for \"main-distribution\"")
