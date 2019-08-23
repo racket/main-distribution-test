@@ -38,6 +38,7 @@
                "2d-test"
                "option-contract-test"
                "sasl-test"
+               "wxme-test"
                "unix-socket-test"))
 
 (define pkg-desc "tests for \"main-distribution\"")
