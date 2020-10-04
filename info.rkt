@@ -38,6 +38,7 @@
                "2d-test"
                "option-contract-test"
                "sasl-test"
+               "simple-tree-text-markup-test"
                "wxme-test"
                "unix-socket-test"))
 
