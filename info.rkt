@@ -45,3 +45,6 @@
 (define pkg-desc "tests for \"main-distribution\"")
 
 (define pkg-authors '(eli jay matthias mflatt robby))
+
+(define license
+  '(Apache-2.0 OR MIT))
