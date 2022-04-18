@@ -12,6 +12,7 @@
                "html-test"
                "redex-test"
                "drracket-test"
+               "quickscript-test"
                "profile-test"
                "srfi-test"
                "errortrace-test"
