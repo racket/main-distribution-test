@@ -9,6 +9,7 @@
                "gui-test"
                "db-test"
                "htdp-test"
+               "htdp-drracket-test"
                "html-test"
                "redex-test"
                "drracket-test"
