@@ -10,6 +10,7 @@
                "db-test"
                "htdp-test"
                "htdp-drracket-test"
+               "deinprogramm-test"
                "html-test"
                "redex-test"
                "drracket-test"
